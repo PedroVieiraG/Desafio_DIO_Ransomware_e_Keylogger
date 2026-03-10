@@ -119,7 +119,7 @@ def descriptografar_arquivos(chave: bytes):
 
 def menu():
     print("\n" + "="*60)
-    print("  SIMULADOR DE RANSOMWARE — USO EDUCACIONAL")
+    print("  SIMULADOR DE RANSOMWARE")
     print("="*60)
     print("  1. Criar arquivos de teste")
     print("  2. EXECUTAR ATAQUE (criptografar)")
